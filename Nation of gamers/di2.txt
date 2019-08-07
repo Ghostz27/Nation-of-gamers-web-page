@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tom Clancy's The Division 2</title>
+	<link rel="stylesheet" type="text/css" href="di2.css">
+	<link rel="icon" type="img/ico" href="di 2 i.png">	
+<body>
+<body background="di2 2.jpg" style="size: cover;">
+<div class="title">
+	<h1> Tom Clancy's The Division 2</h1>
+</div>
+	
+<div class="title2">
+	<b>Need to know!!!</b><br>	
+</div>
+<br>
+<div class="games">	
+	
+		<b>Articals</b>
+</div>
+<br>		
+<div class="games2">
+		<b><i>&nbsp;&nbsp;How to Level Up Quickly in The Division 2</i></b>	
+        <br>
+        <br>
+	 <p>&nbsp;&nbsp;This page gives you all the information you need to level up as quickly as possible in The Division 2.
+
+This page only contains information for general levelling, if you want to know more about levelling up in the PvP area check out Dark Zone Levelling and Stats.
+
+It's worth noting that doing things like replaying main missions on higher difficulties or playing in the Dark Zones are great for weapon drops but aren't worth it for levelling up. Here are some things you can do to make levelling up go as quickly as possible.<br>
+<br>
+&nbsp;&nbsp;To Know more click down the Button below
+
+</p>
+<br>
+</div>
+<div class="btn1">
+	 <button type="button"id="read" onclick="read()"><a href="https://www.ign.com/wikis/the-division-2/How_to_Level_Up_Quickly">Click :)</a></button>
+</div>
+<br>
+<div  class="para1">
+	<b><i>Tom Clancy's The Division 2 Full Presentation - E3 2019</i></b><br>
+	<br>
+	<p> 26 DAYS 17 HOURS AGO - Ubisoft details the road ahead for Year One of The Division 2 at their E3 2019 conference.</p>
+
+</div>
+
+	 
+
+
+	 <br>
+	 <br>
+	 <b> Reviews</b>
+	 <br>
+      <br>
+	 <b><i>Tom Clancy's The Division 2 REVIEW</i></b>
+	 <br>
+	
+	 <br><p>BY JONAH KRAKOW I've been pretty tough in my reviews of Nikita over the past two episodes, pointing out inconsistencies, weak premises and obvious gaps in logic because I know the show can do better. This week's episode proved me right. It was awesome. Like all of the series' best episodes, the aptly-named "Betrayals" was jam-packed with plenty of twists and surprises, but more importantly, every one was backed by hard evidence or a solid explanation. That's what separates this show from the pack - when it's on its game, every detail is perfect, every fact is cross-checked and suspension of disbelief is not really necessary. After what Nikita and Alex have been through this season, I could never conceive of a situation that would make Alex pull a gun on her mentor. And yet they pulled it off convincingly. And they re-established Percy (Xander Berkeley) as one of the best villains on television.<br>
+	 	</p><br>
+	 	<div class="btn2">
+	<i>To know more</i><button type="button"id"=read" onclick="read()"><a href="https://www.ign.com/articles/2011/05/06/nikita-betrayals-review">Click here</a></button>
+</div>
+<br>
+<b> You can get a little bit of understanding about Division 2 from these vedios  </b>
+<br>
+<br>
+<table cellspacing="2" >
+	<tr>
+		<td>
+<div class="vedio">
+<video width="500" controls="controls">
+	
+	<source src="The Division 2 Review.mp4" vedio="vedio/mp4" >
+</video>	
+</div>
+<td></td>
+<td></td>
+<td></td>	
+<td></td>
+<td></td>
+		</td>
+		<td>
+			<div class="vedio2">
+	
+	<video width="500" controls="controls">
+	<source src="Tom Clancy's The Division - E3 Gameplay reveal [EUROPE].mp4" vedio="vedio/mp4 ">
+	</video>
+</div>
+		</td>
+	</tr>
+	
+
+</table>
+
+
+
+
+</body>
+</html>
